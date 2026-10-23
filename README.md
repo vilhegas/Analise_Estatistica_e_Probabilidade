@@ -1,4 +1,4 @@
-# Análise Estatística e Distribuições de Probabilidade com Python
+# Análise Estatística e Distribuições de Probabilidade
 
 ## Visão geral
 
