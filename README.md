@@ -74,7 +74,7 @@ Também são simulados eventos independentes de abertura de e-mail e compra, usa
    pip install numpy pandas scipy matplotlib seaborn notebook
    ```
 
-3. Abra o notebook original (`Aula 2.ipynb`) no Jupyter ou em um ambiente compatível.
+3. Abra o notebook original (`Probabilidade.ipynb`) no Jupyter ou em um ambiente compatível.
 4. Execute as células em sequência para reproduzir os cálculos e os gráficos.
 
 > Algumas simulações utilizam amostragem aleatória sem uma semente fixa em todas as etapas. Por isso, frequências e gráficos podem apresentar pequenas variações entre execuções.
