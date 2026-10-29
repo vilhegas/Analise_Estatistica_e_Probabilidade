@@ -78,11 +78,3 @@ Também são simulados eventos independentes de abertura de e-mail e compra, usa
 4. Execute as células em sequência para reproduzir os cálculos e os gráficos.
 
 > Algumas simulações utilizam amostragem aleatória sem uma semente fixa em todas as etapas. Por isso, frequências e gráficos podem apresentar pequenas variações entre execuções.
-
-## Escopo e limitações
-
-Este é um projeto de caráter **educacional e exploratório**, construído com exemplos sintéticos. Os resultados não devem ser interpretados como estimativas obtidas de uma população real. O notebook não inclui treinamento de modelos de Machine Learning, validação preditiva ou testes estatísticos aplicados a bases externas.
-
-## Competências demonstradas
-
-`Python` · `Probabilidade` · `Estatística` · `Simulação` · `Análise de Dados` · `Visualização de Dados` · `Jupyter Notebook`
